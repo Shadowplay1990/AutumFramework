@@ -55,17 +55,40 @@ public abstract class AbstractResource implements Resource{
 
     @Override
     public long contentLength() throws IOException {
-        return 0;
+        InputStream is=getInputStream();
+        try{
+            long size=0;
+            byte[] buf=new byte[255];
+            int read;
+            while ((read=is.read(buf))!=-1){
+                size+=read;
+            }
+            return size;
+        }finally {
+            try{
+                is.close();
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        }
     }
 
     @Override
     public long lastModified() throws IOException {
-        return 0;
+        long lastModified=getFileForLastModifiedCheck().lastModified();
+        if (lastModified==0L){
+            throw new FileNotFoundException(getDescription()+"在文件查询最后修改时间时无法解析文件。");
+        }
+        return lastModified;
+    }
+
+    protected File getFileForLastModifiedCheck() throws IOException {
+        return getFile();
     }
 
     @Override
-    public Resource createRelative() throws IOException {
-        return null;
+    public Resource createRelative(String relativePath) throws IOException {
+        throw new FileNotFoundException("不能为"+getDescription()+" 创建相对资源。");
     }
 
     @Override
@@ -75,12 +98,12 @@ public abstract class AbstractResource implements Resource{
 
     @Override
     public String getDescription() {
-        return null;
+        return getDescription();
     }
 
     @Override
     public boolean isReadable() {
-        return false;
+        return true;
     }
 
     @Override
@@ -97,20 +120,16 @@ public abstract class AbstractResource implements Resource{
     public ReadableByteChannel readableChannel() throws IOException {
         return Channels.newChannel(getInputStream());
     }
+
+    @Override
+    public boolean equals(Object obj){
+        return (obj == this ||
+                (obj instanceof Resource && ((Resource) obj).
+                        getDescription().equals(getDescription())));
+    }
+
+    @Override
+    public int hashCode(){
+        return getDescription().hashCode();
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

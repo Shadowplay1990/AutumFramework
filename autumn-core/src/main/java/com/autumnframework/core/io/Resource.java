@@ -34,7 +34,7 @@ public interface Resource extends InputStreamSource{
 
     long lastModified() throws IOException;
 
-    Resource createRelative() throws IOException;
+    Resource createRelative(String relativePath) throws IOException;
 
     String getFilename();
 

@@ -18,7 +18,7 @@
       <file leaf-file-name="Resource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/Resource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
+            <state relative-caret-position="267">
               <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -27,64 +27,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractResource.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AbstractResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1124">
-              <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            <state relative-caret-position="218">
+              <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#exists#0;class#AbstractResource#0" expanded="false" />
-                <element signature="e#1758#1759#0" expanded="true" />
-                <element signature="e#1785#1786#0" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
-                <element signature="e#1864#1865#0" expanded="true" />
-                <element signature="e#1913#1914#0" expanded="true" />
-                <element signature="e#1941#1942#0" expanded="true" />
-                <element signature="e#1986#1987#0" expanded="true" />
-                <element signature="e#2014#2015#0" expanded="true" />
-                <element signature="e#2059#2060#0" expanded="true" />
-                <element signature="e#2087#2088#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NestedIOException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/NestedIOException.java">
+      <file leaf-file-name="AbstractFileResolvingResource.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractFileResolvingResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResourceUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ResourceUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="297">
+              <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/StringUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,11 +75,19 @@
       <list>
         <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/pom.xml" />
         <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/InputStreamSource.java" />
-        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/Resource.java" />
         <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/StringUtils.java" />
-        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ResourceUtils.java" />
         <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/NestedIOException.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/WritableResource.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/Assert.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/Resource.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/PathResource.java" />
         <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractResource.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/ByteArrayResource.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ReflictionUtils.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/VfsUtils.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/VfsResource.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ResourceUtils.java" />
+        <option value="$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractFileResolvingResource.java" />
       </list>
     </option>
   </component>
@@ -155,9 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,6 +300,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -755,11 +725,12 @@
       <updated>1504763222053</updated>
       <workItem from="1504763224958" duration="4550000" />
       <workItem from="1504836415191" duration="6424000" />
+      <workItem from="1505090957971" duration="14735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10974000" />
+    <option name="totallyTimeSpent" value="25709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1919" height="1036" extended-state="0" />
@@ -779,7 +750,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19421713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30987453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -803,7 +774,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -811,6 +784,51 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/NestedIOException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ResourceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#exists#0;class#AbstractResource#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/Resource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -849,12 +867,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
+        <state relative-caret-position="1044">
           <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -866,32 +881,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ResourceUtils.java">
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/NestedIOException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/WritableResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/NestedIOException.java">
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="377">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="785" column="8" lean-forward="false" selection-start-line="785" selection-start-column="8" selection-end-line="785" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/PathResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="138" column="36" lean-forward="true" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
           <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="method#PathResource#0;class#PathResource#0" expanded="false" />
+            <element signature="method#PathResource#1;class#PathResource#0" expanded="false" />
+            <element signature="method#PathResource#2;class#PathResource#0" expanded="false" />
+            <element signature="method#getInputStream#0;class#PathResource#0" expanded="false" />
+            <element signature="method#getURL#0;class#PathResource#0" expanded="false" />
+            <element signature="method#getURI#0;class#PathResource#0" expanded="false" />
+            <element signature="method#getFile#0;class#PathResource#0" expanded="false" />
+            <element signature="method#readableChannel#0;class#PathResource#0" expanded="false" />
+            <element signature="method#contentLength#0;class#PathResource#0" expanded="false" />
+            <element signature="e#3422#3423#0" expanded="false" />
+            <element signature="e#3465#3466#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/Resource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
+        <state relative-caret-position="267">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -899,23 +946,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/ByteArrayResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#1099#1100#0" expanded="false" />
+            <element signature="e#1168#1169#0" expanded="false" />
+            <element signature="e#1422#1423#0" expanded="false" />
+            <element signature="e#1499#1500#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1124">
-          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        <state relative-caret-position="218">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#exists#0;class#AbstractResource#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="true" />
-            <element signature="e#1785#1786#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1864#1865#0" expanded="true" />
-            <element signature="e#1913#1914#0" expanded="true" />
-            <element signature="e#1941#1942#0" expanded="true" />
-            <element signature="e#1986#1987#0" expanded="true" />
-            <element signature="e#2014#2015#0" expanded="true" />
-            <element signature="e#2059#2060#0" expanded="true" />
-            <element signature="e#2087#2088#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="96" column="39" lean-forward="false" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="39" />
+          <folding>
+            <element signature="e#2518#2519#0" expanded="true" />
+            <element signature="e#2547#2548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ReflictionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/VfsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#invokeVfsMethod#0;class#VfsUtils#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/VfsResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/util/ResourceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutumnFramework/autumn-core/src/main/java/com/autumnframework/core/io/AbstractFileResolvingResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

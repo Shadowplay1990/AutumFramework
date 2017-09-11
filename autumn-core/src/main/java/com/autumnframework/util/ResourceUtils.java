@@ -9,6 +9,10 @@ import java.net.URL;
  */
 public abstract class ResourceUtils {
 
+    public static final String URL_PROTOCOL_VFSFILE="vfsfile";
+    public static final String URL_PROTOCOL_VFS = "vfs";
+    public static final String URL_PROTOCOL_FILE = "file";
+
     public static URI toURI(String location) throws URISyntaxException {
         return new URI(StringUtils.replace(location," ","%20"));
     }
